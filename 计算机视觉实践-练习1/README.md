@@ -14,7 +14,7 @@
 
 原图像匹配：
 
-![](/md_img/s1_matches.jpg)
+![](./md_img/s1_matches.jpg)
 
 ---
 
