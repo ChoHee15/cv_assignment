@@ -20,20 +20,20 @@
 
 结果：
 
-![](/md_img/s1_result.jpg)
+![](./md_img/s1_result.jpg)
 
 
 ### 图组b
 
 原图像匹配：
 
-![](/md_img/s2_matches.jpg)
+![](./md_img/s2_matches.jpg)
 
 ---
 
 结果：
 
-![](/md_img/s2_result.jpg)
+![](./md_img/s2_result.jpg)
 
 
 
