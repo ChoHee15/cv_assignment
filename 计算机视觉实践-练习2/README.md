@@ -40,7 +40,7 @@ CNN Explainer是一个非常有用的工具，它为理解复杂的CNN模型提�
 
 ### 1. 准备数据集
 
-于http://yann.lecun.com/exdb/mnist/下载MNIST数据集。并解压、按照如下目录存放：
+于http://yann.lecun.com/exdb/mnist/ 下载MNIST数据集。并解压、按照如下目录存放：
 
 ```
 ./MNIST
@@ -171,5 +171,5 @@ if __name__ == "__main__":
 
 ### 运行说明
 
-数据集位于此``README.md``报告同目录下的``./MNIST``。于jupyter notebook运行全部cell即可
+数据集位于此``README.md``报告同目录下的``./MNIST``。于jupyter notebook运行全部cell即可。
 
