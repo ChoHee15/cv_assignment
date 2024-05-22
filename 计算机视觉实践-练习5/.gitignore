@@ -1,0 +1,4 @@
+*.jpg
+*.png
+!imgL.jpg
+!imgR.jpg

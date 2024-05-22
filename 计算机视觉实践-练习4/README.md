@@ -90,7 +90,7 @@ H, _ = cv2.findHomography(pts1, pts2, cv2.RANSAC, 5.0)
 
 打印单应性矩阵，详细内容位于jupyter notebook文件中。使用单应性矩阵对图像进行变换，得到的结果保存于``./image/res.jpg``
 
-[.ipynb文件](./assignment03_SR.ipynb)
+[.ipynb文件](./assignment04_Homography.ipynb)
 
 
 ![res](./md_img/comp.png)
