@@ -2,3 +2,4 @@
 *.png
 !imgL.jpg
 !imgR.jpg
+!md_img/*
