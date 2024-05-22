@@ -49,7 +49,7 @@ StereoSGBM用到的几个参数如下
 
 详细设置于jupyter notebook文件中。
 
-[.ipynb文件](./assignment03_SR.ipynb)
+[.ipynb文件](./assignment05_StereoMatching.ipynb)
 
 
 
@@ -57,7 +57,7 @@ StereoSGBM用到的几个参数如下
 
 ## 3. 结果
 
-运行第一个cell后显示视差图像和对比结果。视差越大的地方应该有更亮的颜色，意味着更近。
+运行第一个cell后显示视差图像和对比结果。视差越小的地方应该有更暗的颜色，意味着更远。
 
 ![res](./md_img/res.png)
 
@@ -73,7 +73,7 @@ StereoSGBM用到的几个参数如下
 
 于jupyter notebook运行第一个cell，会弹出得出的视差图，按任意键关闭后会打印出L-R-result的对比图。
 
-运行第一个cell，会弹出一个带有多个参数滑块的窗口，调整滑块以改变SGBM的参数，结果会显示在窗口上。
+运行第二个cell，会弹出一个带有多个参数滑块的窗口，调整滑块以改变SGBM的参数，结果会显示在窗口上。
 
 
 
